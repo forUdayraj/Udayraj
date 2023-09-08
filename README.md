@@ -39,6 +39,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/forUdayraj/forUdayraj/output/snake.svg" alt="Snake animation" />
 
 ###
